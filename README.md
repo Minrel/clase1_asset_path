@@ -1,0 +1,1 @@
+# clase1_asset_path
